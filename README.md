@@ -1,1 +1,2 @@
-NLP-model-on-INMD-Reviews
+NLP-model-on-IMDB-Reviews
+Using IMDB Review Dataset from kaggle
