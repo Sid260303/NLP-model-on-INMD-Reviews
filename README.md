@@ -12,7 +12,7 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 
 The IMDb movie reviews dataset consists of movie reviews labeled as positive or negative sentiment.
 
-You can find the dataset here: [IMDb Movie Reviews Dataset](link-to-dataset)
+You can find the dataset here: [IMDb Movie Reviews Dataset]([link-to-dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews))
 
 ## Usage
 
@@ -25,9 +25,4 @@ You can find the dataset here: [IMDb Movie Reviews Dataset](link-to-dataset)
 
 The sentiment analysis model is built using TensorFlow and Keras. It consists of an embedding layer, LSTM layers, and fully connected layers.
 
-## Installation
 
-To run the project locally, you need to have Python installed. You can install the required dependencies using pip:
-
-```bash
-pip install -r requirements.txt
