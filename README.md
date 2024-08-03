@@ -12,7 +12,7 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 
 The IMDb movie reviews dataset consists of movie reviews labeled as positive or negative sentiment.
 
-You can find the dataset here: [IMDb Movie Reviews Dataset]([https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews]
+You can find the dataset here: [IMDb Movie Reviews Dataset]([https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews])
 ## Usage
 
 1. **Data Preprocessing**: Preprocess the dataset to prepare it for training the model.
